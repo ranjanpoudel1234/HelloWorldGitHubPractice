@@ -9,5 +9,7 @@ namespace HelloWorldGitHubPractice
         public string File1TestVariable { get; set; }
 
         public string DevBranchVariable { get; set; }
+
+        public string DevBranchVariable2 { get; set; }
     }
 }
