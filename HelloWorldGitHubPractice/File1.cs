@@ -13,5 +13,7 @@ namespace HelloWorldGitHubPractice
         public string DevBranchVariable2 { get; set; }
 
         public string MasterBranchVariable { get; set; }
+
+        public string MasterBranchSecondVariable { get; set; }
     }
 }
