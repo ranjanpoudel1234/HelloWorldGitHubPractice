@@ -11,5 +11,7 @@ namespace HelloWorldGitHubPractice
         public string ConflictFeatureAdded { get; set; }
 
         public string ConflictFeature2Added { get; set; }
+
+        public string FirstDevNewFeatureProperty2 { get; set; }
     }
 }
