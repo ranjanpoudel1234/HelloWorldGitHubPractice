@@ -9,5 +9,7 @@ namespace HelloWorldGitHubPractice
         public string FirstNewFeatureAdded { get; set; }
 
         public string ConflictFeatureAdded { get; set; }
+
+        public string ConflictFeature2Added { get; set; }
     }
 }
